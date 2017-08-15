@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/CLionProjects/Examen1Zebra/Evaluador.cpp
+Evaluador.h
+C:/Users/dell/CLionProjects/Examen1Zebra/Evaluador.h
+
+C:/Users/dell/CLionProjects/Examen1Zebra/Evaluador.h
+iostream
+-
+fstream
+-
+math.h
+-
+list
+-
+vector
+-
+
+C:/Users/dell/CLionProjects/Examen1Zebra/main.cpp
+iostream
+-
+fstream
+-
+math.h
+-
+list
+-
+vector
+-
+Evaluador.h
+C:/Users/dell/CLionProjects/Examen1Zebra/Evaluador.h
+
